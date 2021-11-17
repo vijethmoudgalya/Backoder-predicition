@@ -1,0 +1,17 @@
+Database_name :
+  Backorder_Prediction
+
+keys_ :
+  path_to_zip : secure-connect-backorder-prediction.zip
+  client_id : XaxcbkswRofZMRBElnvjyZBJ
+  client_seck : ZbK47,zTt38F2agDmfB9K-e_PFQwyDljXl7TcuqAOlvZeOUSFB9m.jogzxubal8kjNkmZwzRzf0ZKQATwZB9CK2n0.nhKZoRBN40wqikfL5-71T-_,k8AsRl0LM.s5Bj
+  role : Admin_User
+
+
+Good_training_tables_info:
+  table_name : Good_trainingTable
+  keyspace_name  : '"Good_training_data"'
+  purpose : "to store Good validated data"
+
+# this file is changable 
+
