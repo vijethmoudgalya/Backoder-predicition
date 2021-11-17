@@ -204,31 +204,3 @@ To fix a bug or enhance an existing module, follow these steps:
 We Developed A Product Backorder Predictive Model With The Capability Of Identifying Items To Be Backordered Using Machine Learning Models. The Proposed Approach Accept Input Data Was Pre-Processed By Way Of Missing Values Imputation, Non-Numeric To Numeric Feature Conversion And Normalization, And Split Into Training And Test Set. The Training Set Is Passed Into A Data Balancing Module To Ensure Equal Class Distribution And Avoid Biasness In Learning Model Decisions. The Imbalanced Training Data Were Subjected Sampling As We Concurrently Fed The Data Into Sampling Techniques Fed Into ML Models To Predict Product Backorders. The Predictive Models Were Validated On Test Data And Their Performances Were Evaluated. The Evaluation Of The Result Obtained Showed By Precision, Recall , AUC Score , Accuracy And F1-Score.
 
 
-# Teams Members Name
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- * [@Vikas](https://github.com/Vikas2201)
- * [@Chaudhary Shubham R.](https://github.com/shubhamchau222)
- * [@Bijayalaxmi Kar](https://github.com/bijayalaxmikar)
- * [@Hitesh Singh](https://github.com/hitesh777)
- * [@Pallapothu Bhargavram](https://github.com/bhargavtejasw)
- * [@Vivek Rathore](https://github.com/VIVEKRATHORE360)
-
-# Help Me Improve
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Hello Reader if you find any bug please consider raising issue I will address them asap.
-
-# Documentation
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[High Level Documentation](https://github.com/Vikas2201/Backorder-prediction-1/files/7145911/Backorder.HLD.V1.0.pdf)
-
-[Low Level Documentation](https://github.com/Vikas2201/Backorder-prediction-1/files/7145912/Low.Level.Document.pdf)
-
-[WireFrame](https://github.com/Vikas2201/Backorder-prediction-1/files/7144748/WireFrame_By_Vikas.pdf)
-
-[Detail Project Report](https://github.com/Vikas2201/Backorder-prediction-1/files/7145926/DPR.pdf)
-
-[Architecture Documentation](https://github.com/Vikas2201/Backorder-prediction-1/files/7145934/Architecture.pdf)
-
